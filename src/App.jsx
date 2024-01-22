@@ -5,8 +5,8 @@ function App() {
   return (
     <div className="mainBody">
       <div className="topHeader">
-        <h1 className="header">MARVELO</h1>
-        <input placeholder="Search a Marvel Character" className="topInput" />
+        <h1 className="header">GOD'S GENERALS</h1>
+        <input placeholder="Search a Contemporary Gospel Minister" className="topInput" />
       </div>
       <div className="cardBody">
         {characters.map((data, index) => (
@@ -23,11 +23,12 @@ function App() {
               </p>
               <div className="avatarInfo">
                 <div className="price">
-                  <ins>◘</ins>
+                  <ins></ins>
                   <p>{data.team}</p>
                 </div>
                 <div className="duration">
-                  <ins>◷</ins>
+                  <ins></ins>
+                  
                   <p>Home: {data.homeworld}</p>
                 </div>
               </div>

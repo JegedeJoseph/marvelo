@@ -1,95 +1,94 @@
 export const characters = [
-  // Iron Man
+  // Smith Wigglesworth
   {
-    name: "Tony Stark",
-    alias: "Iron Man",
-    img1: "https://www.specfictionshop.com/cdn/shop/products/315455127_2253071438203857_6311282012262232749_n_2000x.jpg?v=1669836598",
-    homeworld: "Earth",
+    name: "Apostle of Faith",
+    alias: "Benny Hinn",
+    img1: "https://th.bing.com/th?id=OIP.bQeZAowPUkyU2LGi153hLgHaEK&w=333&h=187&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",
     abilities: [
-      "Genius-level intellect",
-      "Powered armor suit",
-      "Superhuman strength",
+      "Healing Ministry",
+      "Evangelism",
+      "Faith Ministry",
     ],
-    team: "Avengers",
+    team: "",
     description:
-      "Tony Stark, also known as Iron Man, is a brilliant inventor, philanthropist, and industrialist. He uses his genius-level intellect and a highly advanced powered armor suit to fight for justice and protect the world from various threats. Stark is a charismatic playboy turned superhero who combines his technological prowess with unwavering determination to uphold the values of heroism and innovation.",
+      "Reverend Billy Graham is absolutely someone that we should all look to as a role model.  His life has been a showcase of what a Christian man should look like.",
   },
   {
-    name: "Pepper Potts",
-    alias: "Rescue",
-    abilities: ["Powered armor suit", "Advanced technology skills"],
-    team: "Avengers",
-    img1: "https://i.pinimg.com/originals/5e/fe/55/5efe55d2a7785a311511736a1a37bcbb.jpg",
-    homeworld: "Earth",
+    name: "Evangelist",
+    alias: "Billy Graham",
+    abilities: ["Faith Ministry",
+                " Holiness",
+                "Evangelism"],
+    img1: "https://th.bing.com/th?id=OIP.wK6h-yZWFt7ovUcjiBSf7AHaHA&w=256&h=243&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",
+    homeworld: "",
     description:
       "Pepper Potts, the formidable Rescue, is an accomplished businesswoman and technological genius. She dons a powered armor suit equipped with an array of advanced technology and weaponry, allowing her to stand alongside the Avengers in the battle against supervillains and global threats. Pepper is a determined and fearless heroine with an unwavering commitment to justice.",
   },
   {
-    name: "James 'Rhodey' Rhodes",
-    alias: "War Machine",
-    abilities: ["Powered armor suit", "Military expertise"],
-    team: "Avengers",
-    img1: "https://i.pinimg.com/474x/ec/3f/4f/ec3f4f8053892365046fc6cd2f7955eb.jpg",
-    homeworld: "Earth",
+    name: "Head Pastor",
+    alias: "John MacArthur ",
+    abilities: ["Sanctification", "Holiness"],
+    team: "Grace Community church, Sun Valley",
+    img1: "https://th.bing.com/th?id=OIP.q2LXaZdcOe9vz-u9ehUuowHaJl&w=219&h=284&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",
 
     description:
-      "James 'Rhodey' Rhodes, also known as War Machine, is a highly skilled pilot and a military expert. He operates a heavily armed powered armor suit that enhances his strength and combat capabilities. With a strong sense of duty and loyalty to his allies, Rhodey plays a crucial role in the Avengers' efforts to maintain peace and protect the world.",
+      "John MacArthur is the head pastor at Grace Community Church in Sun Valley, CA.  He, like John Piper, doesn’t beat around the bush.  He tackles issues straight on and delivers powerful messages to impact the kingdom of God",
   },
   {
-    name: "Riri Williams",
-    alias: "Ironheart",
-    abilities: ["Powered armor suit", "Genius-level intellect"],
-    team: "Young Avengers",
-    img1: "https://i.pinimg.com/736x/e3/02/9b/e3029b056f1deaf2011d72d0bce0bafa.jpg",
+    name: "American Evangelical Pastor",
+    alias: "Chuck Swindoll",
+    abilities: ["Righteousness", "Evangelism"],
+    team: "Stonebriar Community Church, Frisco",
+    img1: "https://th.bing.com/th?id=OIP.1dcsg270DwExd35M3ZMt3gHaIp&w=231&h=270&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",
     homeworld: "Earth",
 
     description:
-      "Riri Williams, known as Ironheart, is a prodigious young inventor with a genius-level intellect. She has designed her own advanced powered armor suit, which she uses to fight against threats as a member of the Young Avengers. Riri's intelligence, determination, and innovative spirit make her a rising star in the superhero community.",
+      "Chuck Swindoll is an amazing preacher from Stonebriar Community Church in Frisco, TX.  His style is friendly, serious and loud.  His knowledge of the Bible is always shown in his messages.",
   },
 
   // Spider-Man
   {
-    name: "Miles Morales",
-    alias: "Spider-Man",
-    abilities: ["Bio-electrokinesis", "Wall-crawling"],
-    team: "Champions",
-    img1: "https://w0.peakpx.com/wallpaper/15/497/HD-wallpaper-marvel-spider-man-marvel-spider-man-game-games.jpg",
-    homeworld: "Earth",
+    name: "Theologian and Writer",
+    alias: "John Piper",
+    abilities: ["Love", "Justification"],
+    team: "Bethlehem College and Seminary ,Minneapolis",
+    img1: "https://th.bing.com/th?id=OIP.Msp6f74-fW25NGMn84Qc5wHaIl&w=232&h=269&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",
     img3: "url_to_img3_for_Natasha_Stark",
     description:
-      "Miles Morales, the teenage Spider-Man, has bio-electrokinesis powers, in addition to wall-crawling abilities. As a member of the Champions, Miles embodies the spirit of the Spider-Man legacy, fighting for equality and justice in the Marvel Universe while navigating the challenges of being a young hero.",
+      "John Piper is a very well-known preacher for his style (straightforward/not passive) and knowledge of the Bible.  He has tackled many tough issues, from predestination to homosexuality.  He is one of the preachers at Bethlehem Baptist Church in Minneapolis, MN.",
   },
 
   {
-    name: "Cindy Moon",
-    alias: "Silk",
-    abilities: ["Web-shooting", "Superhuman agility"],
-    team: "Agents of Atlas",
-    img1: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2015_53/894026/silk_1_cover.jpg",
-    homeworld: "Earth",
+    name: "Evangelical Author",
+    alias: "Greg Laurie",
+    abilities: ["Evangelism", "Justification"],
+    team: "Harvest Christian Fellowship, Carlifornia",
+    img1: "https://th.bing.com/th?id=OIP.OGeannY-u42JXBA7ZMAVpgHaG5&w=259&h=241&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",
     description:
-      "Cindy Moon, codenamed Silk, is a skilled hero with the power of web-shooting and remarkable superhuman agility. She is an essential member of the Agents of Atlas, using her arachnid-like abilities to combat threats and safeguard the world.",
+      "https://th.bing.com/th?id=OIP.OGeannY-u42JXBA7ZMAVpgHaG5&w=259&h=241&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",
   },
 
   {
-    name: "Steve Rogers",
-    alias: "Captain America",
+    name: "Kathryn Kulhman",
+    alias: "Evangelist",
     abilities: ["Peak human strength", "Vibranium shield"],
     team: "Avengers",
-    img1: "https://w0.peakpx.com/wallpaper/223/397/HD-wallpaper-captain-america-avengers-endgame-captain-america-marvel-marvel-comics-marvel-superheroes-superheroes.jpg",
-    homeworld: "Earth",
+    img1: "https://th.bing.com/th?id=OIP.n5pf4JJwdtDOr-EdBOZB6gHaKY&w=211&h=296&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",
+    abilities: [
+      "Faith Ministry",
+      "Healing Ministry",
+    ],
     description:
       "Steve Rogers, Captain America, is the embodiment of honor and virtue. Enhanced with peak human strength and wielding a Vibranium shield, he stands as a symbol of justice and resilience. Steve's unwavering commitment to the ideals of heroism makes him a cornerstone of the Avengers and the Marvel Universe.",
   },
   {
-    name: "Sam Wilson",
-    alias: "Falcon",
+    name: "Senior Pastor",
+    alias: "Alistair Begg",
     abilities: ["Wingsuit", "Telepathic link with birds"],
-    team: "Avengers",
-    img1: "https://i.pinimg.com/736x/0e/be/ed/0ebeed0c9d6578732a07ca98fee71e22.jpg",
-    homeworld: "Earth",
+    team: "Cleveland's Parkside, Chagrin's Falls",
+    img1: "https://th.bing.com/th?id=OIP.Pbu4EUNb4kweSKaMPv_CUAHaKX&w=211&h=295&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",
     description:
-      "Sam Wilson, the Falcon, soars through the skies with his high-tech wingsuit and possesses a unique telepathic link with birds. As an Avenger, Sam exemplifies freedom, hope, and unity, fighting alongside his fellow heroes to maintain peace and protect the world from impending threats.",
+      "Alistair Begg is the senior pastor at Parkside Church in Chagrin Falls, OH.  His style of preaching is serious and friendly.  He conveys the truths of the Bible in a very easy way to understand.",
   },
 ];
 
