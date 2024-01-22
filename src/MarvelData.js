@@ -75,7 +75,7 @@ export const characters = [
     team: "Avengers",
     img1: "https://th.bing.com/th?id=OIP.n5pf4JJwdtDOr-EdBOZB6gHaKY&w=211&h=296&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",
     abilities: [
-      "Faith Ministry", 
+      "Faith Ministry",  
       "Healing Ministry",
     ],
     description:
